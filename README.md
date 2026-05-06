@@ -1,2 +1,15 @@
 # keybord.hardware
 hardware keyboard broker
+
+
+sudo mkfifo /dev/ttys
+
+python3 pass.py < /dev/ttys
+
+
+
+python3 braker.py > /dev/ttys
+
+
+
+
