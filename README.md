@@ -1,5 +1,4 @@
-# keybord.hardware
-hardware keyboard broker
+# password game
 
 
 sudo mkfifo /dev/ttys
