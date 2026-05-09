@@ -1,14 +1,1 @@
-# password game
-
-
-sudo mkfifo /dev/ttys
-
-python3 pass.py < /dev/ttys
-
-
-
-python3 braker.py > /dev/ttys
-
-
-
-
+https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/
